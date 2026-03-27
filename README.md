@@ -23,5 +23,11 @@ Sweet: Apply every setting except icons, window decorations and cursors
 Copy fastfetch config files and onfigure panels as you
 like!
 
-## Screenshots
-In screenshot folder
+## Screenshots & Wallpaper 
+
+!(Ricing screenshot of sddm login screen)[Screenshots/Screenshot_20260327_100452.png]
+!(Ricing screenshot of desktop with application menu open)[Screenshots/Screenshot_20260327_100452.png]
+!(Ricing screenshot of fastfetch in terminal)[Screenshots/Screenshot_20260326_002452.png]
+!(Ricing screenshot of application launcher)[Screenshots/Screenshot_20260327_100514.png]
+!(wallpaper synthwave style neon car)[wallpaper.jpg]
+
