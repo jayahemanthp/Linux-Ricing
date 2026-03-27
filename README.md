@@ -25,9 +25,9 @@ like!
 
 ## Screenshots & Wallpaper 
 
-!(Ricing screenshot of sddm login screen)[Screenshots/Screenshot_20260327_100452.png]
-!(Ricing screenshot of desktop with application menu open)[Screenshots/Screenshot_20260327_100452.png]
-!(Ricing screenshot of fastfetch in terminal)[Screenshots/Screenshot_20260326_002452.png]
-!(Ricing screenshot of application launcher)[Screenshots/Screenshot_20260327_100514.png]
-!(wallpaper synthwave style neon car)[wallpaper.jpg]
+![Ricing screenshot of sddm login screen](Screenshots/Screenshot_20260327_100452.png)
+![Ricing screenshot of desktop with application menu open](Screenshots/Screenshot_20260327_100452.png)
+![Ricing screenshot of fastfetch in terminal](Screenshots/Screenshot_20260326_002452.png)
+![Ricing screenshot of application launcher](Screenshots/Screenshot_20260327_100514.png)
+![wallpaper synthwave style neon car](wallpaper.jpg)
 
