@@ -22,3 +22,6 @@ Sweet: Apply every setting except icons, window decorations and cursors
 ##### Step 3:
 Copy fastfetch config files and onfigure panels as you
 like!
+
+## Screenshots
+In screenshot folder
