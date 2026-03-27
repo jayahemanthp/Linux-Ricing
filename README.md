@@ -1,4 +1,4 @@
-#Chronosync Sweet Chicago Theme
+# Chronosync Sweet Chicago Theme
 
 ## Linux Distro
 Arch Linux with KDE Plasma
